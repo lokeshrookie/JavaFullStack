@@ -1,0 +1,17 @@
+
+
+1.
+To begin with, unicode is a standard which tries to define and map all individual characters from all languages,
+from english letters to chinese, numbers, symbols etc.
+Basically unicode has long list of numbered characters where the code point refers to the numbering.
+In short
+    Characters are the individual tokens in a text, whether letter, number or symbol.
+A code point:
+    refers to numbering of a token in the unicode standard
+Characters:
+    represented using the UTF-16 encoding scheme houses so many characters that all does not fit in the allotted space of single a java character.
+Surrogate:
+    pairs is the term used to say that one character needs to be represented in the space of a pair of characters. Surrogate pairs is the term used to say that one character is listed so high in the unicode table it needs a pair of character spaces to represent it.
+
+2.
+3.

@@ -1,5 +1,11 @@
 Ararys:
 
-1. In 2D array, arr.length == no of rows.
+1. In 2D array, arr.length == no of rows not columns.
 2. Jagged Array: In a 2D array, if every row do not have the same number of columns(elements), then called Jagged Array.
 3.
+
+Strings:
+    1. String is a sequence of characters and  stored in the form of Objects.(not stored as arrays.)
+    2. String without new keyword will be stored in "String pool". String with new keyword will be stored in "Heap Memory".
+    3. String Constant Pool do not contain duplicates. So if we create a new String object with the same content.
+        Then new reference will be added to the original Object. New object will not be created.
