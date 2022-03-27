@@ -1,0 +1,5 @@
+Ararys:
+
+1. In 2D array, arr.length == no of rows.
+2. Jagged Array: In a 2D array, if every row do not have the same number of columns(elements), then called Jagged Array.
+3.
